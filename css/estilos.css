@@ -1,6 +1,21 @@
+h1{
+    color:gold;
+    text-align:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color:black;
+    text-align:right;
+}
 body
 {
     color:blue;
     text-align: center;
-    
+    font-style: oblique;
+}
+p2{
+    color:red;
+    text-align:left;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
