@@ -31,3 +31,9 @@ p2{
         box-shadow: 0px 2px 20px 0px brown;
         color: darkgray;
 }
+#cabecera #logo
+{ 
+ width: 200px;
+ vertical-align: middle;
+
+} 
